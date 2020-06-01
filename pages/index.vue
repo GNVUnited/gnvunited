@@ -3,7 +3,7 @@
     <article>
       <h1 class="text-4xl">{{ page.title }}</h1>
       <nuxt-content :document="page" class="p-4" />
-      <img src="~/assets/BLM.jpg" class="max-w-full md:max-w-lg" />
+      <img src="~/assets/vigil.png" class="max-w-full md:max-w-lg" />
     </article>
   </div>
 </template>
