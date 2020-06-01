@@ -2,6 +2,8 @@
 
 > A digital bulletin board
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7348fc1e-de8d-4073-af56-9c5f5c1742f6/deploy-status)](https://app.netlify.com/sites/hardcore-wescoff-38e37d/deploys)
+
 ## Build Setup
 
 ```bash
