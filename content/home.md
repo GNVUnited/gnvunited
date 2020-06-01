@@ -2,7 +2,7 @@
 title: Vigil for George Floyd and others
 ---
 
-time: Wed 7:30 PM
+time: Wednesday &#183; June 3, 2020 &#183; 7:30 PM
 
 location: TBD
 
