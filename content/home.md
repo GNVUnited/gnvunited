@@ -8,6 +8,8 @@ title: No Justice, No Peace. Protest for Black Lives
 
 **Hosted by:** [Goddsville Dream Defenders](https://www.facebook.com/UFDreamDefenders/)
 
+**Facebook Event:** [No Justice, No Peave. Protest for Black Lives](https://www.facebook.com/events/s/no-justice-no-peace-a-protest-/3197032137187736/)
+
 Join us as we take the streets and demand local solutions from our elected officials.
 
 We will also be educating ya'll on local problems that Black people are facing in this city.
