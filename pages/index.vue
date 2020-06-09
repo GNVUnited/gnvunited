@@ -4,9 +4,9 @@
       <h1 class="text-4xl">{{ page.title }}</h1>
       <nuxt-content :document="page" class="p-4" />
       <img
-        src="~/assets/vigil.png"
+        src="~/assets/no-justice-no-peace.jpg"
         alt="Facbook event screenshot"
-        class="max-w-full md:max-w-lg"
+        class="inline max-w-full md:max-w-lg"
       />
     </article>
   </div>
