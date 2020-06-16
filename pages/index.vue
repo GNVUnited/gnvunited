@@ -4,7 +4,7 @@
       <h1 class="text-4xl">{{ page.title }}</h1>
       <nuxt-content :document="page" class="p-4" />
       <img
-        src="~/assets/no-justice-no-peace.jpg"
+        src="~/assets/lane.jpg"
         alt="Facbook event screenshot"
         class="inline max-w-full md:max-w-lg"
       />
