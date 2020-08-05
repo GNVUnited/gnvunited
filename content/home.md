@@ -1,13 +1,11 @@
 ---
-title: Black Communities Matter Rally & March
+title: March for SAFE School Re-opening!
 ---
 
-**time:** Thursday &#183; June 18, 2020 &#183; 6 PM - 9 PM
+**time:** Saturday &#183; August 8, 2020 &#183; 4 PM - 7 PM
 
-**location:** City Hall 200 E University Ave &#183; Gainesville, Florida 32601
+**location:** 620 E University Ave &#183; Gainesville, Florida 32601
 
-**Hosted by:** [Gainesville Alliance for Equitable Development](https://www.facebook.com/GA4ED/)
+**Hosted by:** [Teachers UNITE](https://m.facebook.com/Teachers-UNITE-123057189501487/)
 
-**Facebook Event:** [Black Communities Matter Rally & March](https://www.facebook.com/events/540239069985973/)
-
-Join the Gainesville Alliance for Equitable Development in a show of solidarity with the displaced residents of Seminary Lane Apartments and the Historic 5th Avenue & Pleasant Street Communities as we rally on the steps of City Hall, then march to the Seminary Lane Property that we've been fighting to save for the past year!
+**Facebook Event:** [March for Alachua County SAFE School Re-opening!](https://m.facebook.com/events/348512632808256)
