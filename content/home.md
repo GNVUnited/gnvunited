@@ -1,9 +1,9 @@
 ---
-title: BLACK LIVES MATTER
+title: Community Over Cages
 ---
 
-**time:** Friday &#183; August 28, 2020 &#183; 4:30 PM - 6:30 PM
+**time:** Thursday &#183; September 3, 2020 &#183; 5:00 PM
 
-**location:** W University Ave & 13th St. &#183; Gainesville, Florida
+**location:** University Ave & Main St. &#183; Gainesville, Florida
 
-Masks are REQUIRED during this PEACEFUL demonstration.
+Resist the increase in the GPD budget.
